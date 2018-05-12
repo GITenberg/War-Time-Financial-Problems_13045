@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '4107'
     url: http://www.gutenberg.org/2009/agents/4107
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13045#War-Time-Financial-Problems
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2004-07-29'
 gutenberg_type: Text
